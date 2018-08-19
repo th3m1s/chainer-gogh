@@ -30,7 +30,7 @@ Implementation of "A neural algorithm of Artistic style" (http://arxiv.org/abs/1
 ## Usage:
 ### Install Chainer
 ```
-pip install chainer
+pip install -r requirements.txt
 ```
 See https://github.com/pfnet/chainer for details.
 

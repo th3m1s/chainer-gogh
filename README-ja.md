@@ -31,7 +31,7 @@
 ## Usage:
 ### Chainerをインストール
 ```
-pip install chainer
+pip install -r requirements.txt
 ```
 詳しくはhttps://github.com/pfnet/chainer
 
